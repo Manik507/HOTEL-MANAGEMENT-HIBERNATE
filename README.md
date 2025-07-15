@@ -60,6 +60,8 @@ This project uses the following Maven dependencies:
 </dependency>
 ```
 ## 📄JPA CONFIGURATION
+persistent.xml
+```xml
 <persistence xmlns="https://jakarta.ee/xml/ns/persistence" version="3.1">
     <persistence-unit name="hotelPU" transaction-type="RESOURCE_LOCAL">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
@@ -75,6 +77,7 @@ This project uses the following Maven dependencies:
         </properties>
     </persistence-unit>
 </persistence>
+```
 ```
 ```
 ## 📂 PROJECT STRUCTURE
