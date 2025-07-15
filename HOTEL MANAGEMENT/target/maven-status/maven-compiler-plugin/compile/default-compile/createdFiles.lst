@@ -1,0 +1,4 @@
+com\hotelmanagement\entity\Order.class
+com\hotelmanagement\HotelApp.class
+com\hotelmanagement\service\OrderService.class
+com\hotelmanagement\util\HibernateUtil.class
