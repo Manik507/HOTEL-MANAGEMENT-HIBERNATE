@@ -103,9 +103,9 @@ persistent.xml
 ```
 ## OUTPUT :-
 <img width="1920" height="1080" alt="HOTEL MANAGEMENT" src="https://github.com/user-attachments/assets/4fcb2964-9f2a-46d6-af7c-bf4b1aefa29e" />
-```
-```
+
 ## 📬 CONTACT
+
 👑 Leader: Manik Barad
 
 📧 Email: baradmanik@gmail.com
