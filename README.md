@@ -81,6 +81,7 @@ persistent.xml
 ```
 ```
 ## 📂 PROJECT STRUCTURE
+```
 📦 HOTEL MANAGEMENT
 └── 📁 src
     └── 📁 main
@@ -97,6 +98,7 @@ persistent.xml
         └── 📁 resources
             └── 📁 META-INF
                 └── 📄 persistence.xml
+```
 ```
 ```
 ## OUTPUT :-
