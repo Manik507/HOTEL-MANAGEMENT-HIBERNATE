@@ -1,4 +1,4 @@
-1# 🍽️ HOTEL MANAGEMENT SYSTEM
+# 🍽️ HOTEL MANAGEMENT SYSTEM
 
 A console-based **Hotel Management System** built using **Java 17**, **Hibernate ORM**, **JPA**, and **PostgreSQL**.  
 This application allows hotel staff to place customer food orders, with each order automatically saved to a PostgreSQL database using Hibernate ORM.  
