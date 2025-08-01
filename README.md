@@ -11,7 +11,6 @@ This application allows hotel staff to place customer food orders, with each ord
 |:------------|:-----------------|
 | 👑 Leader    | Manik Barad       |
 | 👥 Member    | Prajwal Sanade    |
-| 👥 Member    | Ganesh Hibare     |
 
 ---
 
